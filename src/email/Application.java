@@ -31,8 +31,6 @@ public class Application {
 		
 		System.out.println(e1.showInfo()); //prints employee information 
 		
-		
-		
 	}
 
 
